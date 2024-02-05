@@ -13,10 +13,10 @@ function Hero() {
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[125px] top-5 sm:top-[73%]"
+          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[125px] top-[73%] sm:top-[73%]"
         />
 
-<img
+        <img
           src="images/grand.png"
           alt=""
           className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[110px] bottom-2 sm:-bottom-[21px] overflow-y-hidden"
@@ -24,14 +24,17 @@ function Hero() {
         <img
           src="images/chart.png"
           alt=""
-          className=" absolute -z-[2] top-[45%] sm:top-[19%] h-[47%]"
+          className=" absolute -z-[2] top-[35%] sm:top-[19%] h-auto sm:h-[47%]"
         />
         <div className="py-3 sm:py-2 flex items-center gap-4">
           <img
             src="images/logo.png"
             alt=""
             className=" mx-auto h-[2rem] sm:h-[40px]"
-          /> <h2 className=" font-work text-4xl font-normal text-white">TRADE-ATHON </h2>
+          />{" "}
+          <h2 className=" font-work text-4xl font-normal text-white">
+            TRADE-ATHON{" "}
+          </h2>
         </div>
         <div className=" sm:pt-0 pt-[40%]">
           <img
@@ -64,16 +67,19 @@ function Hero() {
 
         <div className="">
           <h1 className="uppercase archo-black text-xl sm:text-[2rem] txt-s text-white text-center tracking-[-0.11em] sm:mb-0 mb-3">
-            {/* <img src="images/play.png" alt="" className=" mx-auto h-full sm:h-[50px]" /> */}  
+            {/* <img src="images/play.png" alt="" className=" mx-auto h-full sm:h-[50px]" /> */}
             {/* <span className="text-[#edd400]">PLAY </span> */}
-           FOR A SHARE OF
+            FOR A SHARE OF
           </h1>
           <img
             src="images/100k.png"
             alt=""
             className=" mx-auto h-auto sm:h-[148px] sm:-mt-9 "
           />
-          <p className=" font-work text-5xl text-white text-center "> <span className=" archo-black">+</span> 1,000,000 $KIX</p>
+          <p className=" font-work text-5xl text-white text-center ">
+            {" "}
+            <span className=" archo-black">+</span> 1,000,000 $KIX
+          </p>
         </div>
       </div>
     </section>
