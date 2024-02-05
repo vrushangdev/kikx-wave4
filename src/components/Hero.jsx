@@ -8,18 +8,18 @@ function Hero() {
         <img
           src="images/free.png"
           alt=""
-          className=" absolute left-2 sm:left-[14%] h-[80px] sm:h-[200px] top-[7%] sm:top-[4%]"
+          className=" absolute left-2 sm:left-[16%] h-[80px] sm:h-[200px] top-[7%] sm:top-[4%]"
         />
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-3 sm:right-[23%] h-[80px] sm:h-[115px] top-[81%] sm:top-[76%]"
+          className=" absolute right-3 sm:right-[26%] h-[80px] sm:h-[115px] top-[81%] sm:top-[76%]"
         />
 
         <img
           src="images/grand.png"
           alt=""
-          className=" absolute right-3 sm:right-[23%] h-[70px] sm:h-[96px] -bottom-5 sm:-bottom-[16px] overflow-y-hidden"
+          className=" absolute right-3 sm:right-[26%] h-[70px] sm:h-[96px] -bottom-5 sm:-bottom-[16px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"
@@ -74,9 +74,9 @@ function Hero() {
           <img
             src="images/100k.png"
             alt=""
-            className=" mx-auto h-[110px] sm:h-[148px] mr-6 sm:mr-0 -mt-8 sm:-mt-9 "
+            className=" mx-auto h-[110px] sm:h-[148px] mr-6 sm:mr-8 -mt-8 sm:-mt-9 "
           />
-          <p className=" font-work text-3xl sm:text-5xl text-white text-start sm:text-center ">
+          <p className=" font-work text-3xl sm:text-5xl text-white text-start sm:text-center mr-0 sm:mr-4  ">
             {" "}
             <span className=" archo-black">+</span> 1,000,000 $KIX
           </p>
