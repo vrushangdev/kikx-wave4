@@ -8,7 +8,7 @@ function Hero() {
         <img
           src="images/free.png"
           alt=""
-          className=" absolute left-2 sm:left-[14%] h-[120px] sm:h-[200px] top-[3%] sm:top-[4%]"
+          className=" absolute left-2 sm:left-[14%] h-[120px] sm:h-[200px] top-[5%] sm:top-[4%]"
         />
         <img
           src="images/winn.png"
@@ -24,7 +24,7 @@ function Hero() {
         <img
           src="images/chart.png"
           alt=""
-          className=" absolute -z-[2] top-[30%] sm:top-[19%] h-auto sm:h-[47%]"
+          className=" absolute -z-[2] top-[38%] sm:top-[19%] h-auto sm:h-[47%]"
         />
         <div className="py-3 sm:py-2 flex items-center gap-4">
           <img
@@ -36,7 +36,7 @@ function Hero() {
             TRADE-ATHON{" "}
           </h2>
         </div>
-        <div className=" sm:pt-0 pt-[14%]">
+        <div className=" sm:pt-0 pt-[20%]">
           <img
             src="images/tredtext.png"
             alt=""
@@ -57,7 +57,7 @@ function Hero() {
           <img
             src="/teen.png"
             alt=""
-            className=" mx-auto h-auto sm:h-[240px]"
+            className=" mx-auto h-auto sm:h-[240px] sm:mt-0 mt-8"  
           />
         </div>
 
