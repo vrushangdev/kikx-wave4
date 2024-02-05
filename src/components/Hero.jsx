@@ -74,7 +74,7 @@ function Hero() {
           <img
             src="images/100k.png"
             alt=""
-            className=" mx-auto h-[110px] sm:h-[148px] mr-4 sm:mr-0 -mt-8 sm:-mt-9 "
+            className=" mx-auto h-[110px] sm:h-[148px] mr-6 sm:mr-0 -mt-8 sm:-mt-9 "
           />
           <p className=" font-work text-3xl sm:text-5xl text-white text-start sm:text-center ">
             {" "}
