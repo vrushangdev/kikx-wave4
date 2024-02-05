@@ -13,18 +13,18 @@ function Hero() {
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[125px] top-[73%] sm:top-[73%]"
+          className=" absolute right-3 sm:right-[23%] h-[90px] sm:h-[125px] top-[80%] sm:top-[73%]"
         />
 
         <img
           src="images/grand.png"
           alt=""
-          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[110px] bottom-2 sm:-bottom-[21px] overflow-y-hidden"
+          className=" absolute right-3 sm:right-[23%] h-[80px] sm:h-[110px] -bottom-6 sm:-bottom-[21px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"
           alt=""
-          className=" absolute -z-[2] top-[35%] sm:top-[19%] h-auto sm:h-[47%]"
+          className=" absolute -z-[2] top-[30%] sm:top-[19%] h-auto sm:h-[47%]"
         />
         <div className="py-3 sm:py-2 flex items-center gap-4">
           <img
@@ -66,7 +66,7 @@ function Hero() {
         </div>
 
         <div className="">
-          <h1 className="uppercase archo-black text-xl sm:text-[2rem] txt-s text-white text-center tracking-[-0.11em] sm:mb-0 mb-3">
+          <h1 className="uppercase archo-black text-[1.5rem] sm:text-[2rem] txt-s text-white text-center tracking-[-0.11em] sm:mb-0 mb-3">
             {/* <img src="images/play.png" alt="" className=" mx-auto h-full sm:h-[50px]" /> */}
             {/* <span className="text-[#edd400]">PLAY </span> */}
             FOR A SHARE OF
@@ -74,9 +74,9 @@ function Hero() {
           <img
             src="images/100k.png"
             alt=""
-            className=" mx-auto h-auto sm:h-[148px] sm:-mt-9 "
+            className=" mx-auto h-[110px] sm:h-[148px] -mt-8 sm:-mt-9 "
           />
-          <p className=" font-work text-5xl text-white text-center ">
+          <p className=" font-work text-3xl sm:text-5xl text-white text-start sm:text-center ">
             {" "}
             <span className=" archo-black">+</span> 1,000,000 $KIX
           </p>
