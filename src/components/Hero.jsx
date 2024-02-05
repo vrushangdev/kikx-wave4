@@ -8,17 +8,23 @@ function Hero() {
         <img
           src="images/free.png"
           alt=""
-          className=" absolute left-3 sm:-left-[2%] h-[150px] sm:h-[220px] top-[4%] sm:top-[25%]"
+          className=" absolute left-3 sm:left-[14%] h-[150px] sm:h-[200px] top-[4%] sm:top-[4%]"
         />
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-0 sm:-right-[1%] h-[150px] sm:h-[220px] top-5 sm:top-[49%]"
+          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[125px] top-5 sm:top-[73%]"
+        />
+
+<img
+          src="images/grand.png"
+          alt=""
+          className=" absolute right-0 sm:right-[23%] h-[150px] sm:h-[110px] bottom-2 sm:-bottom-[21px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"
           alt=""
-          className=" absolute -z-[2] top-[45%] sm:top-[16%]"
+          className=" absolute -z-[2] top-[45%] sm:top-[19%] h-[47%]"
         />
         <div className="py-3 sm:py-2 flex items-center gap-4">
           <img
@@ -31,7 +37,7 @@ function Hero() {
           <img
             src="images/tredtext.png"
             alt=""
-            className=" mx-auto py-1 -mt-3  sm:-mt-6 sm:py-4 sm:h-[9.5rem] h-[3.5rem] "
+            className=" mx-auto py-1 -mt-3  sm:-mt-3 sm:py-4 sm:h-[9.5rem] h-[3.5rem] "
           />
         </div>
 
@@ -48,16 +54,16 @@ function Hero() {
           <img
             src="/teen.png"
             alt=""
-            className=" mx-auto h-auto sm:h-[250px]"
+            className=" mx-auto h-auto sm:h-[240px]"
           />
         </div>
 
-        <div className="  mt-4 sm:mt-0 sm:mb-0 mb-3 ">
+        <div className="  mt-4 sm:-mt-2 sm:mb-0 mb-3 ">
           <ClickStart />
         </div>
 
         <div className="">
-          <h1 className="uppercase archo-black text-xl sm:text-3xl txt-s text-white text-center tracking-[-0.11em] sm:mb-0 mb-3">
+          <h1 className="uppercase archo-black text-xl sm:text-[2rem] txt-s text-white text-center tracking-[-0.11em] sm:mb-0 mb-3">
             {/* <img src="images/play.png" alt="" className=" mx-auto h-full sm:h-[50px]" /> */}  
             {/* <span className="text-[#edd400]">PLAY </span> */}
            FOR A SHARE OF
@@ -65,9 +71,9 @@ function Hero() {
           <img
             src="images/100k.png"
             alt=""
-            className=" mx-auto h-auto sm:h-[105px]"
+            className=" mx-auto h-auto sm:h-[148px] sm:-mt-9 "
           />
-          <p className=" font-work text-4xl text-white "> <span className=" archo-black">+</span> 1,000,000 $KIX</p>
+          <p className=" font-work text-5xl text-white text-center "> <span className=" archo-black">+</span> 1,000,000 $KIX</p>
         </div>
       </div>
     </section>
