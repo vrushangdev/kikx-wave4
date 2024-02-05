@@ -13,13 +13,13 @@ function Hero() {
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-3 sm:right-[26%] h-[80px] sm:h-[115px] top-[81%] sm:top-[76%]"
+          className=" absolute right-3 sm:right-[26%] h-[80px] sm:h-[115px] top-[78%] sm:top-[76%]"
         />
 
         <img
           src="images/grand.png"
           alt=""
-          className=" absolute right-3 sm:right-[26%] h-[70px] sm:h-[96px] -bottom-5 sm:-bottom-[16px] overflow-y-hidden"
+          className=" absolute right-3 sm:right-[26%] h-[70px] sm:h-[96px] -bottom-1 sm:-bottom-[16px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"
@@ -76,7 +76,7 @@ function Hero() {
             alt=""
             className=" mx-auto h-[110px] sm:h-[148px] mr-6 sm:mr-8 -mt-8 sm:-mt-9 "
           />
-          <p className=" font-work text-3xl sm:text-6xl text-white text-start sm:text-center mr-0 sm:mr-4  tracking-[-0.11em] ">
+          <p className=" font-work text-[2.5rem] sm:text-6xl text-white text-start sm:text-center mr-0 sm:mr-4  tracking-[-0.11em] ">
             {" "}
             <span className=" archo-black">+</span> 1,000,000 $KIX
           </p>
