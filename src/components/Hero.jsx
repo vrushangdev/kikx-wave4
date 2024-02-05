@@ -8,7 +8,7 @@ function Hero() {
         <img
           src="images/free.png"
           alt=""
-          className=" absolute left-2 sm:left-[14%] h-[120px] sm:h-[200px] top-[5%] sm:top-[4%]"
+          className=" absolute left-2 sm:left-[14%] h-[100px] sm:h-[200px] top-[5%] sm:top-[4%]"
         />
         <img
           src="images/winn.png"
@@ -19,7 +19,7 @@ function Hero() {
         <img
           src="images/grand.png"
           alt=""
-          className=" absolute right-3 sm:right-[23%] h-[80px] sm:h-[110px] -bottom-5 sm:-bottom-[21px] overflow-y-hidden"
+          className=" absolute right-3 sm:right-[23%] h-[75px] sm:h-[110px] -bottom-5 sm:-bottom-[21px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"
@@ -36,11 +36,11 @@ function Hero() {
             TRADE-ATHON{" "}
           </h2>
         </div>
-        <div className=" sm:pt-0 pt-[20%]">
+        <div className=" sm:pt-0 pt-[10%]">
           <img
             src="images/tredtext.png"
             alt=""
-            className=" mx-auto py-1 px-3 sm:px-0 -mt-3  sm:-mt-3 sm:py-4 sm:h-[9.5rem] h-auto  "
+            className=" mx-auto py-1 px-3 sm:px-0 -mt-3  sm:-mt-3 sm:py-4 sm:h-[9.5rem] h-[104px]  "
           />
         </div>
 
