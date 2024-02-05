@@ -32,7 +32,7 @@ function Hero() {
             alt=""
             className=" mx-auto h-[2rem] sm:h-[40px]"
           />{" "}
-          <h2 className=" font-work text-4xl font-normal text-white">
+          <h2 className=" font-work text-3xl sm:text-4xl font-normal text-white">
             TRADE-ATHON{" "}
           </h2>
         </div>
