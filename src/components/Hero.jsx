@@ -32,7 +32,7 @@ function Hero() {
             alt=""
             className=" mx-auto h-[2rem] sm:h-[40px]"
           />{" "}
-          <h2 className=" font-work text-3xl sm:text-4xl font-normal text-white">
+          <h2 className=" font-work text-3xl sm:text-4xl font-normal text-white tracking-[-0.11em]">
             TRADE-ATHON{" "}
           </h2>
         </div>
@@ -57,7 +57,7 @@ function Hero() {
           <img
             src="/teen.png"
             alt=""
-            className=" mx-auto h-auto sm:h-[240px] sm:mt-0 mt-8"  
+            className=" mx-auto h-auto sm:h-[240px] sm:-mt-5 mt-8"  
           />
         </div>
 
@@ -76,7 +76,7 @@ function Hero() {
             alt=""
             className=" mx-auto h-[110px] sm:h-[148px] mr-6 sm:mr-8 -mt-8 sm:-mt-9 "
           />
-          <p className=" font-work text-3xl sm:text-5xl text-white text-start sm:text-center mr-0 sm:mr-4  ">
+          <p className=" font-work text-3xl sm:text-6xl text-white text-start sm:text-center mr-0 sm:mr-4  tracking-[-0.11em] ">
             {" "}
             <span className=" archo-black">+</span> 1,000,000 $KIX
           </p>
