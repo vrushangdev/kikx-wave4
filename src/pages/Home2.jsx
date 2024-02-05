@@ -30,7 +30,7 @@ function Home2() {
             />
           </div>
         )} */}
-        <div >
+        <div className=" overflow-hidden" >
           <div className=" ">
             <Hero />
           </div>
