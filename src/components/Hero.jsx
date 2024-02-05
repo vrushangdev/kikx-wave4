@@ -8,7 +8,7 @@ function Hero() {
         <img
           src="images/free.png"
           alt=""
-          className=" absolute left-2 sm:left-[14%] h-[90px] sm:h-[200px] top-[5%] sm:top-[4%]"
+          className=" absolute left-2 sm:left-[14%] h-[80px] sm:h-[200px] top-[5%] sm:top-[4%]"
         />
         <img
           src="images/winn.png"
@@ -36,7 +36,7 @@ function Hero() {
             TRADE-ATHON{" "}
           </h2>
         </div>
-        <div className=" sm:pt-0 pt-[9%]">
+        <div className=" sm:pt-0 pt-[8%]">
           <img
             src="images/tredtext.png"
             alt=""
